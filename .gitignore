@@ -1,0 +1,5 @@
+*.mmproj
+motor_control/build/
+polar_range_pro/build/
+SoftwareSerialExample/build/SoftwareSerialExample.elf
+SoftwareSerialExample/build/
